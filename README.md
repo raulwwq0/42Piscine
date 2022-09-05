@@ -1,1 +1,1 @@
-![All assigments](./screenshots/all.png)
+![All assigments](./.screenshots/all.png)
